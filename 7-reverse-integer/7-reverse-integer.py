@@ -24,5 +24,5 @@ class Solution:
         if (int(a)<=(-2**31) or int(a)>=(2**31)-1):
             return(0)
         else:
-            return (a)
+            return (int(a))
         
