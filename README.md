@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarhatJahan-AllahBaksh
-- 👀 I’m interested in Data Crunshing , Data Visulaisation
+- 👀 I’m interested in Data Analysis and  Data Visulaisation
 - 🌱 I’m currently learning Data Science
 - 📫 Reach me @farabaksh@gmail.com for collaboration
 
